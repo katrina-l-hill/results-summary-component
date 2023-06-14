@@ -27,7 +27,7 @@ body {
     height: 425px;
     border-radius: 30px;
     background-color: rgb(102, 70, 246);
-    background-image: linear-gradient(#6543f8, #3630ea);  
+    background-image: linear-gradient(#6543f8, #3630ea);
 }
 
 .result-header {
@@ -173,8 +173,16 @@ body {
     width: 100%;
     padding: 10px;
 }
+
 .container {
     float: left;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
 }
 
 .attribution {
