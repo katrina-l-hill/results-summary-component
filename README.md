@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/katrina-l-hill/results-summary-component)
+- [Live URL](https://katrina-l-hill.github.io/results-summary-component/)
 
 ### Built with
 
